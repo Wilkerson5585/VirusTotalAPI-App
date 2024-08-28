@@ -1,1 +1,6 @@
-This is my first time messing around with the virus total api and git. 
+VirusTotalAPI-App
+
+create an application via tkinter to house and make more userfriendly
+the virus total api
+
+
